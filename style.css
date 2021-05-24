@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(194, 170, 240);
+    color: rgb(66, 47, 97);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_the_things{
+    color: rgb(248, 247, 244);
+}
+#camera{
+    border: 2px dotted rgb(164, 152, 236);
+    width: 350px;
+    height: 300px;
+}
